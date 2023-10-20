@@ -6,13 +6,15 @@
 <img width="410" alt="Screen Shot 2023-10-17 at 01 49 54" src="https://github.com/fanghua9853/Notflix/assets/42789126/3be681f9-799c-4f02-b747-3453d4c3ac2c">
 
 
+## Live Demo 
 
+http://notflix.pythonanywhere.com/
 
-## Quick Start
+## Quick Start on local server
 make sure python 3.x is installed, make sure python and pip are in path.
 on windows, run in powershell:
 ```
-git clone [https://github.com/neilbox1/Notflix](https://github.com/fanghua9853/Notflix.git)
+git clone https://github.com/neilbox1/Notflix
 cd Notflix
 $env:FLASK_APP = "application.py"
 pip install -r requirements.txt
