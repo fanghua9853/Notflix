@@ -12,7 +12,7 @@
 make sure python 3.x is installed, make sure python and pip are in path.
 on windows, run in powershell:
 ```
-git clone https://github.com/neilbox1/Notflix
+git clone [https://github.com/neilbox1/Notflix](https://github.com/fanghua9853/Notflix.git)
 cd Notflix
 $env:FLASK_APP = "application.py"
 pip install -r requirements.txt
